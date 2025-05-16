@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/devops_project/mlruns/106209488297193499/a1de827980c1400fbe30c625dd8b1f11/artifacts
+end_time: 1747391188530
+entry_point_name: ''
+experiment_id: '106209488297193499'
+lifecycle_stage: active
+run_id: a1de827980c1400fbe30c625dd8b1f11
+run_name: adaptable-shad-794
+run_uuid: a1de827980c1400fbe30c625dd8b1f11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747391131241
+status: 4
+tags: []
+user_id: saadt

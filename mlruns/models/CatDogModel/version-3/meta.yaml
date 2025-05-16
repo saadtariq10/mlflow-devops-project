@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747391514492
+current_stage: None
+description: null
+last_updated_timestamp: 1747391514492
+name: CatDogModel
+run_id: f5e95116e84349af8e6c51a34cb2982f
+run_link: null
+source: file:///F:/devops_project/mlruns/106209488297193499/f5e95116e84349af8e6c51a34cb2982f/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///F:/devops_project/mlruns/106209488297193499/f5e95116e84349af8e6c51a34cb2982f/artifacts/best_model
+user_id: null
+version: 3

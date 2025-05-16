@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/devops_project/mlruns/106209488297193499/9c863144a1cb4c1a8751726fd2274679/artifacts
+end_time: 1747390480181
+entry_point_name: ''
+experiment_id: '106209488297193499'
+lifecycle_stage: active
+run_id: 9c863144a1cb4c1a8751726fd2274679
+run_name: bold-ape-50
+run_uuid: 9c863144a1cb4c1a8751726fd2274679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747390460059
+status: 3
+tags: []
+user_id: saadt

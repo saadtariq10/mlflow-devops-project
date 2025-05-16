@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/devops_project/mlruns/106209488297193499/41f24bdd8e7f4fc1a4e15387658b2e07/artifacts
+end_time: 1747390929212
+entry_point_name: ''
+experiment_id: '106209488297193499'
+lifecycle_stage: active
+run_id: 41f24bdd8e7f4fc1a4e15387658b2e07
+run_name: debonair-ant-201
+run_uuid: 41f24bdd8e7f4fc1a4e15387658b2e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747390928941
+status: 4
+tags: []
+user_id: saadt

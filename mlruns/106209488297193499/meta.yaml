@@ -1,0 +1,6 @@
+artifact_location: file:///F:/devops_project/mlruns/106209488297193499
+creation_time: 1747390399073
+experiment_id: '106209488297193499'
+last_update_time: 1747390399073
+lifecycle_stage: active
+name: CatDogClassifier
