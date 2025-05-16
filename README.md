@@ -42,7 +42,7 @@ This project demonstrates a complete MLflow-based machine learning pipeline with
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/saadtariq10/mlflow-devops-project>
    cd devops_project
    ```
 
